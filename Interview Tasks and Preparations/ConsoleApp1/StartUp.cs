@@ -50,7 +50,7 @@ namespace ConsoleApp1
     class B : A
     {
     }
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
