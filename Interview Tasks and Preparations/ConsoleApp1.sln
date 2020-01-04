@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_1_Data_Types", "ThirtyD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_2_Operators", "ThirtyDaysOfCode\Day_2_Operators\Day_2_Operators\Day_2_Operators.csproj", "{282B62F4-3C8E-4DC0-B9BD-0F90ED40AAD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_3_Conditions", "ThirtyDaysOfCode\Day_3_Intro_to_Conditional_Statements\Day_3_Conditions\Day_3_Conditions.csproj", "{2C9C6E3E-F1D8-4ABB-B0D3-E6C7297CE9C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{282B62F4-3C8E-4DC0-B9BD-0F90ED40AAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{282B62F4-3C8E-4DC0-B9BD-0F90ED40AAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{282B62F4-3C8E-4DC0-B9BD-0F90ED40AAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9C6E3E-F1D8-4ABB-B0D3-E6C7297CE9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9C6E3E-F1D8-4ABB-B0D3-E6C7297CE9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9C6E3E-F1D8-4ABB-B0D3-E6C7297CE9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9C6E3E-F1D8-4ABB-B0D3-E6C7297CE9C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
