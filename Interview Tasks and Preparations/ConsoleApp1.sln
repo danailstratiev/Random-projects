@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_2_Operators", "ThirtyDa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_3_Conditions", "ThirtyDaysOfCode\Day_3_Intro_to_Conditional_Statements\Day_3_Conditions\Day_3_Conditions.csproj", "{2C9C6E3E-F1D8-4ABB-B0D3-E6C7297CE9C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_4_Class_vs_Instance", "ThirtyDaysOfCode\Day_4_Class_vs_Instance\Day_4_Class_vs_Instance.csproj", "{47D24D3D-16D4-4781-AA8D-99EEFD1C6E01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2C9C6E3E-F1D8-4ABB-B0D3-E6C7297CE9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C9C6E3E-F1D8-4ABB-B0D3-E6C7297CE9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C9C6E3E-F1D8-4ABB-B0D3-E6C7297CE9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D24D3D-16D4-4781-AA8D-99EEFD1C6E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D24D3D-16D4-4781-AA8D-99EEFD1C6E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D24D3D-16D4-4781-AA8D-99EEFD1C6E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D24D3D-16D4-4781-AA8D-99EEFD1C6E01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
