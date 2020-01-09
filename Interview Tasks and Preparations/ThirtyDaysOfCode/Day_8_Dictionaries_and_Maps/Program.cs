@@ -16,7 +16,10 @@ namespace Day_8_Dictionaries_and_Maps
                 var kvp = Console.ReadLine().Split(" ");
                 var name = kvp[0];
 
-                phoneBook[name] = kvp[1];
+                if (kvp[1].Length == 8)
+                {
+                    phoneBook[name] = kvp[1];
+                }
             }
 
             while (true)
