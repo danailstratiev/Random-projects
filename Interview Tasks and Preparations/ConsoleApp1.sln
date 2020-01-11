@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_5_Loops", "ThirtyDaysOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_8_Dictionaries_and_Maps", "ThirtyDaysOfCode\Day_8_Dictionaries_and_Maps\Day_8_Dictionaries_and_Maps.csproj", "{1B6B2F99-8296-4158-9B9B-4C32942D46EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_9_Recursion_3", "ThirtyDaysOfCode\Day_9_Recursion_3\Day_9_Recursion_3.csproj", "{59AC8D26-DF14-47D9-8C29-2C01DA1994FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{1B6B2F99-8296-4158-9B9B-4C32942D46EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B6B2F99-8296-4158-9B9B-4C32942D46EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B6B2F99-8296-4158-9B9B-4C32942D46EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AC8D26-DF14-47D9-8C29-2C01DA1994FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AC8D26-DF14-47D9-8C29-2C01DA1994FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AC8D26-DF14-47D9-8C29-2C01DA1994FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AC8D26-DF14-47D9-8C29-2C01DA1994FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
