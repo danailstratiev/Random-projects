@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_10_Binary_Numbers", "Th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_11_2DArrays", "ThirtyDaysOfCode\Day_11_2DArrays\Day_11_2DArrays.csproj", "{D96AF53F-956A-4145-8667-98F7A6F0F24B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_12_Inheritance", "ThirtyDaysOfCode\Day_12_Inheritance\Day_12_Inheritance.csproj", "{E766645A-5871-4A0F-8E1B-B03DAF99D363}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{D96AF53F-956A-4145-8667-98F7A6F0F24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D96AF53F-956A-4145-8667-98F7A6F0F24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D96AF53F-956A-4145-8667-98F7A6F0F24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E766645A-5871-4A0F-8E1B-B03DAF99D363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E766645A-5871-4A0F-8E1B-B03DAF99D363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E766645A-5871-4A0F-8E1B-B03DAF99D363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E766645A-5871-4A0F-8E1B-B03DAF99D363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
