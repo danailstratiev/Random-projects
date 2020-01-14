@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_11_2DArrays", "ThirtyDa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_12_Inheritance", "ThirtyDaysOfCode\Day_12_Inheritance\Day_12_Inheritance.csproj", "{E766645A-5871-4A0F-8E1B-B03DAF99D363}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_13_Abstract_Classes", "ThirtyDaysOfCode\Day_13_Abstract_Classes\Day_13_Abstract_Classes.csproj", "{BD0BA5B3-DAE4-4396-9929-83419CF0274B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{E766645A-5871-4A0F-8E1B-B03DAF99D363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E766645A-5871-4A0F-8E1B-B03DAF99D363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E766645A-5871-4A0F-8E1B-B03DAF99D363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0BA5B3-DAE4-4396-9929-83419CF0274B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0BA5B3-DAE4-4396-9929-83419CF0274B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0BA5B3-DAE4-4396-9929-83419CF0274B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0BA5B3-DAE4-4396-9929-83419CF0274B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
