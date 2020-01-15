@@ -11,31 +11,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseAnswer", "Exercise_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_0_Hello_World!", "ThirtyDaysOfCode\Day_0_Hello,World!\Day_0_Hello_World!\Day_0_Hello_World!.csproj", "{BF1F1B27-9546-448B-A9C4-2D6A07E61E14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_1_Data_Types", "ThirtyDaysOfCode\Day_1_Data_Types\Day_1_Data_Types\Day_1_Data_Types.csproj", "{D5552955-15B0-4D77-880B-9CF017327A13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_1_Data_Types", "ThirtyDaysOfCode\Day_1_Data_Types\Day_1_Data_Types\Day_1_Data_Types.csproj", "{D5552955-15B0-4D77-880B-9CF017327A13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_2_Operators", "ThirtyDaysOfCode\Day_2_Operators\Day_2_Operators\Day_2_Operators.csproj", "{282B62F4-3C8E-4DC0-B9BD-0F90ED40AAD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_2_Operators", "ThirtyDaysOfCode\Day_2_Operators\Day_2_Operators\Day_2_Operators.csproj", "{282B62F4-3C8E-4DC0-B9BD-0F90ED40AAD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_3_Conditions", "ThirtyDaysOfCode\Day_3_Intro_to_Conditional_Statements\Day_3_Conditions\Day_3_Conditions.csproj", "{2C9C6E3E-F1D8-4ABB-B0D3-E6C7297CE9C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_3_Conditions", "ThirtyDaysOfCode\Day_3_Intro_to_Conditional_Statements\Day_3_Conditions\Day_3_Conditions.csproj", "{2C9C6E3E-F1D8-4ABB-B0D3-E6C7297CE9C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_4_Class_vs_Instance", "ThirtyDaysOfCode\Day_4_Class_vs_Instance\Day_4_Class_vs_Instance.csproj", "{47D24D3D-16D4-4781-AA8D-99EEFD1C6E01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_4_Class_vs_Instance", "ThirtyDaysOfCode\Day_4_Class_vs_Instance\Day_4_Class_vs_Instance.csproj", "{47D24D3D-16D4-4781-AA8D-99EEFD1C6E01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_6_Lets_Review", "ThirtyDaysOfCode\Day_6_Lets_Review\Day_6_Lets_Review.csproj", "{9A3C41C6-44B9-4186-B198-F03D84CBB07E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_6_Lets_Review", "ThirtyDaysOfCode\Day_6_Lets_Review\Day_6_Lets_Review.csproj", "{9A3C41C6-44B9-4186-B198-F03D84CBB07E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_7_Arrays", "ThirtyDaysOfCode\Day_7_Arrays\Day_7_Arrays.csproj", "{5421E273-CB6E-4405-AFDE-CC39BB819D63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_7_Arrays", "ThirtyDaysOfCode\Day_7_Arrays\Day_7_Arrays.csproj", "{5421E273-CB6E-4405-AFDE-CC39BB819D63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_5_Loops", "ThirtyDaysOfCode\Day_5_Loops\Day_5_Loops.csproj", "{E7113559-B40F-4471-9605-E516F3FA8395}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_5_Loops", "ThirtyDaysOfCode\Day_5_Loops\Day_5_Loops.csproj", "{E7113559-B40F-4471-9605-E516F3FA8395}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_8_Dictionaries_and_Maps", "ThirtyDaysOfCode\Day_8_Dictionaries_and_Maps\Day_8_Dictionaries_and_Maps.csproj", "{1B6B2F99-8296-4158-9B9B-4C32942D46EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_8_Dictionaries_and_Maps", "ThirtyDaysOfCode\Day_8_Dictionaries_and_Maps\Day_8_Dictionaries_and_Maps.csproj", "{1B6B2F99-8296-4158-9B9B-4C32942D46EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_9_Recursion_3", "ThirtyDaysOfCode\Day_9_Recursion_3\Day_9_Recursion_3.csproj", "{59AC8D26-DF14-47D9-8C29-2C01DA1994FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_9_Recursion_3", "ThirtyDaysOfCode\Day_9_Recursion_3\Day_9_Recursion_3.csproj", "{59AC8D26-DF14-47D9-8C29-2C01DA1994FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_10_Binary_Numbers", "ThirtyDaysOfCode\Day_10_Binary_Numbers\Day_10_Binary_Numbers.csproj", "{F02A75D2-4951-45F5-9632-2BE9F2CC83D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_10_Binary_Numbers", "ThirtyDaysOfCode\Day_10_Binary_Numbers\Day_10_Binary_Numbers.csproj", "{F02A75D2-4951-45F5-9632-2BE9F2CC83D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_11_2DArrays", "ThirtyDaysOfCode\Day_11_2DArrays\Day_11_2DArrays.csproj", "{D96AF53F-956A-4145-8667-98F7A6F0F24B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_11_2DArrays", "ThirtyDaysOfCode\Day_11_2DArrays\Day_11_2DArrays.csproj", "{D96AF53F-956A-4145-8667-98F7A6F0F24B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_12_Inheritance", "ThirtyDaysOfCode\Day_12_Inheritance\Day_12_Inheritance.csproj", "{E766645A-5871-4A0F-8E1B-B03DAF99D363}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_12_Inheritance", "ThirtyDaysOfCode\Day_12_Inheritance\Day_12_Inheritance.csproj", "{E766645A-5871-4A0F-8E1B-B03DAF99D363}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_13_Abstract_Classes", "ThirtyDaysOfCode\Day_13_Abstract_Classes\Day_13_Abstract_Classes.csproj", "{BD0BA5B3-DAE4-4396-9929-83419CF0274B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_13_Abstract_Classes", "ThirtyDaysOfCode\Day_13_Abstract_Classes\Day_13_Abstract_Classes.csproj", "{BD0BA5B3-DAE4-4396-9929-83419CF0274B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_14_Scope", "ThirtyDaysOfCode\Day_14_Scope\Day_14_Scope.csproj", "{B5804314-CB63-4749-BC42-F7EE7592DED5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{BD0BA5B3-DAE4-4396-9929-83419CF0274B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD0BA5B3-DAE4-4396-9929-83419CF0274B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD0BA5B3-DAE4-4396-9929-83419CF0274B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5804314-CB63-4749-BC42-F7EE7592DED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5804314-CB63-4749-BC42-F7EE7592DED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5804314-CB63-4749-BC42-F7EE7592DED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5804314-CB63-4749-BC42-F7EE7592DED5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
