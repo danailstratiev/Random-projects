@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_18_Queues_And_Stacks", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_19_Interfaces", "ThirtyDaysOfCode\Day_19_Interfaces\Day_19_Interfaces.csproj", "{8BC7AB76-956A-470D-BAFE-B892FA7C95BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_20_Sorting", "ThirtyDaysOfCode\Day_20_Sorting\Day_20_Sorting.csproj", "{770337B6-31A3-4F6F-A923-F01041153694}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{8BC7AB76-956A-470D-BAFE-B892FA7C95BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BC7AB76-956A-470D-BAFE-B892FA7C95BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BC7AB76-956A-470D-BAFE-B892FA7C95BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770337B6-31A3-4F6F-A923-F01041153694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770337B6-31A3-4F6F-A923-F01041153694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770337B6-31A3-4F6F-A923-F01041153694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770337B6-31A3-4F6F-A923-F01041153694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
