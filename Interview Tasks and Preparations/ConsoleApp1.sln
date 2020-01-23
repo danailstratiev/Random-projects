@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_20_Sorting", "ThirtyDay
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_21_Generics", "ThirtyDaysOfCode\Day_21_Generics\Day_21_Generics.csproj", "{75FED6AA-4997-4B58-8745-B8FB39888FC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_22_Binary_Search_Trees", "ThirtyDaysOfCode\Day_22_Binary_Search_Trees\Day_22_Binary_Search_Trees.csproj", "{824719A3-6965-46F4-AB5D-7D31350A1210}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{75FED6AA-4997-4B58-8745-B8FB39888FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75FED6AA-4997-4B58-8745-B8FB39888FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75FED6AA-4997-4B58-8745-B8FB39888FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824719A3-6965-46F4-AB5D-7D31350A1210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824719A3-6965-46F4-AB5D-7D31350A1210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824719A3-6965-46F4-AB5D-7D31350A1210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824719A3-6965-46F4-AB5D-7D31350A1210}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

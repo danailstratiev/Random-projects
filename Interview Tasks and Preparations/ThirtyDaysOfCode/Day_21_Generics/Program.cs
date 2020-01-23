@@ -25,7 +25,7 @@ namespace Day_21_Generics
 
         public static void PrintArray <T> (T[] arr)
         {
-            Console.WriteLine(string.Join(" ", arr));
+            Console.WriteLine(string.Join(Environment.NewLine, arr));
         }
     }
 }
