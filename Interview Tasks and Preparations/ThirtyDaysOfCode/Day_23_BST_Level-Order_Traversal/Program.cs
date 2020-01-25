@@ -18,7 +18,18 @@ namespace Day_23_BST_Level_Order_Traversal
         static void levelOrder(Node root)
         {
             //Write your code here
-        }
+            Queue<Node> q = new Queue<Node>();
+            Node n;
+            if (root != null) q.Enqueue(root);
+
+            while (q.Count > 0)
+            {
+                n = q.Dequeue();
+                Console.Write(n.data + " ");
+
+                if (n.left != null) q.Enqueue(n.left);
+                if (n.right != null) q.Enqueue(n.right);
+            }
 
         static Node insert(Node root, int data)
         {
