@@ -47,17 +47,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_17_More_Exceptions", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_18_Queues_And_Stacks", "ThirtyDaysOfCode\Day_18_Queues_And_Stacks\Day_18_Queues_And_Stacks.csproj", "{4E2E7D27-54A4-4791-A9CA-C970C708950A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_19_Interfaces", "ThirtyDaysOfCode\Day_19_Interfaces\Day_19_Interfaces.csproj", "{8BC7AB76-956A-470D-BAFE-B892FA7C95BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_19_Interfaces", "ThirtyDaysOfCode\Day_19_Interfaces\Day_19_Interfaces.csproj", "{8BC7AB76-956A-470D-BAFE-B892FA7C95BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_20_Sorting", "ThirtyDaysOfCode\Day_20_Sorting\Day_20_Sorting.csproj", "{770337B6-31A3-4F6F-A923-F01041153694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_20_Sorting", "ThirtyDaysOfCode\Day_20_Sorting\Day_20_Sorting.csproj", "{770337B6-31A3-4F6F-A923-F01041153694}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_21_Generics", "ThirtyDaysOfCode\Day_21_Generics\Day_21_Generics.csproj", "{75FED6AA-4997-4B58-8745-B8FB39888FC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_21_Generics", "ThirtyDaysOfCode\Day_21_Generics\Day_21_Generics.csproj", "{75FED6AA-4997-4B58-8745-B8FB39888FC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_22_Binary_Search_Trees", "ThirtyDaysOfCode\Day_22_Binary_Search_Trees\Day_22_Binary_Search_Trees.csproj", "{824719A3-6965-46F4-AB5D-7D31350A1210}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_22_Binary_Search_Trees", "ThirtyDaysOfCode\Day_22_Binary_Search_Trees\Day_22_Binary_Search_Trees.csproj", "{824719A3-6965-46F4-AB5D-7D31350A1210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_23_BST_Level-Order_Traversal", "ThirtyDaysOfCode\Day_23_BST_Level-Order_Traversal\Day_23_BST_Level-Order_Traversal.csproj", "{0C697B2A-8A69-4A4B-9561-A9FA6B0D66B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_23_BST_Level-Order_Traversal", "ThirtyDaysOfCode\Day_23_BST_Level-Order_Traversal\Day_23_BST_Level-Order_Traversal.csproj", "{0C697B2A-8A69-4A4B-9561-A9FA6B0D66B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_24_More_Linked_Lists", "ThirtyDaysOfCode\Day_24_More_Linked_Lists\Day_24_More_Linked_Lists.csproj", "{57D14ABE-2D1C-4E5A-B533-B50D902581C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_24_More_Linked_Lists", "ThirtyDaysOfCode\Day_24_More_Linked_Lists\Day_24_More_Linked_Lists.csproj", "{57D14ABE-2D1C-4E5A-B533-B50D902581C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_25_Running_Time_and_Complexity", "ThirtyDaysOfCode\Day_25_Running_Time_and_Complexity\Day_25_Running_Time_and_Complexity.csproj", "{D1815A81-E28D-4223-8FE0-197280493D2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{57D14ABE-2D1C-4E5A-B533-B50D902581C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57D14ABE-2D1C-4E5A-B533-B50D902581C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57D14ABE-2D1C-4E5A-B533-B50D902581C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1815A81-E28D-4223-8FE0-197280493D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1815A81-E28D-4223-8FE0-197280493D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1815A81-E28D-4223-8FE0-197280493D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1815A81-E28D-4223-8FE0-197280493D2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
