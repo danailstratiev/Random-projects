@@ -36,6 +36,10 @@ namespace Day_28_RegEx_Patterns_and_Intro_to_Databases
                     names.Add(firstName);
                 }
             }
+
+            names.Sort();
+
+            Console.WriteLine(string.Join(Environment.NewLine, names));
         }
     }
 }

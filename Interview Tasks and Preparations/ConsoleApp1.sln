@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_26_Nested_Logic", "Thir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_28_RegEx_Patterns_and_Intro_to_Databases", "ThirtyDaysOfCode\Day_28_RegEx_Patterns_and_Intro_to_Databases\Day_28_RegEx_Patterns_and_Intro_to_Databases.csproj", "{AE22659A-7D76-470F-A3B8-EEEB8A27867E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_29_Bitwise_AND", "ThirtyDaysOfCode\Day_29_Bitwise_AND\Day_29_Bitwise_AND.csproj", "{8A8AA0D0-12A0-4CA3-95BF-773706C5D399}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{AE22659A-7D76-470F-A3B8-EEEB8A27867E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE22659A-7D76-470F-A3B8-EEEB8A27867E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE22659A-7D76-470F-A3B8-EEEB8A27867E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8AA0D0-12A0-4CA3-95BF-773706C5D399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8AA0D0-12A0-4CA3-95BF-773706C5D399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8AA0D0-12A0-4CA3-95BF-773706C5D399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8AA0D0-12A0-4CA3-95BF-773706C5D399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
