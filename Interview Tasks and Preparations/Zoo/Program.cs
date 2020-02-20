@@ -53,9 +53,7 @@ namespace Zoo
                     finalTime = temp;
                 }
             }
-            return finalTime;
-
-            
+            return finalTime;           
 
         }
         public Result getTime(int[] timeValues)
